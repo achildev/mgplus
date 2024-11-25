@@ -1,4 +1,4 @@
-# MgPlus (*Mg+*)
+# MgPlus (*Mg+*) forked version
 
 ![](/demo/images/logo.svg)
 
